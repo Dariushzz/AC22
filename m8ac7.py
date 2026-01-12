@@ -12,6 +12,7 @@ app = Flask(__name__)
 #    cursor.execute("insert into prova() values();")
 #    db.commit()
 #    db.close()
+# comentario
 
 @app.route('/') 
 def hello_world():
